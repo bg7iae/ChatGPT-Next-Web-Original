@@ -158,8 +158,8 @@ export function SideBar(props: { className?: string }) {
           Aimoment
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          <p>访问官网<a href="https://www.biggor999.com" target="_blank">https://www.biggor999.com</a></p>
-          <p><a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzAxNjYzMzAwMg==&hid=2&sn=44a4603d0cf059d07cd575fd5e4b1c20"><img src="https://www.yuque.com/aimoment/chatgpt/fet2ay9grimi0mm0?view=doc_embed&from=asite" width="220" height="66" alt="关注我们公众号"></a></p>
+          访问官网 <br />
+          <a href="https://www.biggor999.com" target="_blank">https://www.biggor999.com</a>
         </div>    
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
