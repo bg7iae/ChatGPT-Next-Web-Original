@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./docs/images/head-cover.png" alt="icon"/>
 
-<h1 align="center">如果你需要一个API，<a href="https://feedback.mianfeizhaopin.com" target="_blank">请点击此处联系我</a></h1>
+<h1 align="center">如果你需要一个API，<a href="https://feedback.mianfeizhaopin.com" target="_blank" rel="noopener noreferrer">请点击此处联系我</a></h1>
 
 <h2 align="center">NextChat (ChatGPT Next Web)</h2>
 
